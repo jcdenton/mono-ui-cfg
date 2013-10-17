@@ -1,4 +1,4 @@
 mono-ui-cfg
 ===========
 
-World of Warcraft Mono UI addons compilation custom configuration
+[Monolit's UI](http://www.wowinterface.com/downloads/info18071-MonoUI.html) World of Warcraft addons compilation with some personal customizations and fixes
