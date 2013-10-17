@@ -440,6 +440,7 @@ do
 end
 
 ---------------- > URL copy Module
+--[[ Commented dat shiat to stop oQueue performance holocaust
 local tlds = {
 	"[Cc][Oo][Mm]", "[Uu][Kk]", "[Nn][Ee][Tt]", "[Dd][Ee]", "[Ff][Rr]", "[Ee][Ss]",
 	"[Bb][Ee]", "[Cc][Cc]", "[Uu][Ss]", "[Kk][Oo]", "[Cc][Hh]", "[Tt][Ww]",
@@ -484,6 +485,7 @@ for _, event in pairs(cTypes) do
 		end 
 	end)
 end
+--]]
 
 local GetText = function(...)
 	for l = 1, select("#", ...) do
